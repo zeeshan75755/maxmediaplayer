@@ -5,10 +5,10 @@
 # =========================
 
 #EXTINF:-1 tvg-id="demo.live.1" tvg-name="Demo Live 1" group-title="Live TV",Demo Live Channel 1
-https://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
 
 #EXTINF:-1 tvg-id="demo.live.2" tvg-name="Demo Live 2" group-title="Live TV",Demo Live Channel 2
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
 
 
 # =========================
@@ -16,10 +16,10 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4
 # =========================
 
 #EXTINF:-1 tvg-id="demo.movie.1" tvg-name="Demo Movie 1" group-title="Movies",Demo Movie 1
-https://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
 
 #EXTINF:-1 tvg-id="demo.movie.2" tvg-name="Demo Movie 2" group-title="Movies",Demo Movie 2
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
 
 
 # =========================
@@ -27,10 +27,10 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4
 # =========================
 
 #EXTINF:-1 tvg-id="demo.series.s01e01" tvg-name="Demo Series S01E01" group-title="Demo Series",Demo Series S01E01
-https://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
 
 #EXTINF:-1 tvg-id="demo.series.s01e02" tvg-name="Demo Series S01E02" group-title="Demo Series",Demo Series S01E02
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
 
 #EXTINF:-1 tvg-id="demo.series.s02e01" tvg-name="Demo Series S02E01" group-title="Demo Series",Demo Series S02E01
-https://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
